@@ -1,0 +1,300 @@
+Make,Model,Year,Engine Fuel Type,Engine HP,Engine Cylinders,Transmission Type,Driven_Wheels,Number of Doors,Market Category,Vehicle Size,Vehicle Style,highway MPG,city mpg,Popularity,MSRP
+BMW,1 Series M,2011,premium unleaded (required),335,6,MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Coupe,26,19,3916,46135
+BMW,1 Series,2011,premium unleaded (required),300,6,MANUAL,rear wheel drive,2,"Luxury,Performance",Compact,Convertible,28,19,3916,40650
+BMW,1 Series,2011,premium unleaded (required),300,6,MANUAL,rear wheel drive,2,"Luxury,High-Performance",Compact,Coupe,28,20,3916,36350
+BMW,1 Series,2011,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,"Luxury,Performance",Compact,Coupe,28,18,3916,29450
+BMW,1 Series,2011,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,Luxury,Compact,Convertible,28,18,3916,34500
+BMW,1 Series,2012,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,"Luxury,Performance",Compact,Coupe,28,18,3916,31200
+BMW,1 Series,2012,premium unleaded (required),300,6,MANUAL,rear wheel drive,2,"Luxury,Performance",Compact,Convertible,26,17,3916,44100
+BMW,1 Series,2012,premium unleaded (required),300,6,MANUAL,rear wheel drive,2,"Luxury,High-Performance",Compact,Coupe,28,20,3916,39300
+BMW,1 Series,2012,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,Luxury,Compact,Convertible,28,18,3916,36900
+BMW,1 Series,2013,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,Luxury,Compact,Convertible,27,18,3916,37200
+BMW,1 Series,2013,premium unleaded (required),300,6,MANUAL,rear wheel drive,2,"Luxury,High-Performance",Compact,Coupe,28,20,3916,39600
+BMW,1 Series,2013,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,"Luxury,Performance",Compact,Coupe,28,19,3916,31500
+BMW,1 Series,2013,premium unleaded (required),300,6,MANUAL,rear wheel drive,2,"Luxury,Performance",Compact,Convertible,28,19,3916,44400
+BMW,1 Series,2013,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,Luxury,Compact,Convertible,28,19,3916,37200
+BMW,1 Series,2013,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,"Luxury,Performance",Compact,Coupe,28,19,3916,31500
+BMW,1 Series,2013,premium unleaded (required),320,6,MANUAL,rear wheel drive,2,"Luxury,High-Performance",Compact,Convertible,25,18,3916,48250
+BMW,1 Series,2013,premium unleaded (required),320,6,MANUAL,rear wheel drive,2,"Luxury,High-Performance",Compact,Coupe,28,20,3916,43550
+Audi,100,1992,regular unleaded,172,6,MANUAL,front wheel drive,4,Luxury,Midsize,Sedan,24,17,3105,2000
+Audi,100,1992,regular unleaded,172,6,MANUAL,front wheel drive,4,Luxury,Midsize,Sedan,24,17,3105,2000
+Audi,100,1992,regular unleaded,172,6,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Wagon,20,16,3105,2000
+Audi,100,1992,regular unleaded,172,6,MANUAL,front wheel drive,4,Luxury,Midsize,Sedan,24,17,3105,2000
+Audi,100,1992,regular unleaded,172,6,MANUAL,all wheel drive,4,Luxury,Midsize,Sedan,21,16,3105,2000
+Audi,100,1993,regular unleaded,172,6,MANUAL,front wheel drive,4,Luxury,Midsize,Sedan,24,17,3105,2000
+Audi,100,1993,regular unleaded,172,6,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Wagon,20,16,3105,2000
+Audi,100,1993,regular unleaded,172,6,MANUAL,front wheel drive,4,Luxury,Midsize,Sedan,24,17,3105,2000
+Audi,100,1993,regular unleaded,172,6,MANUAL,front wheel drive,4,Luxury,Midsize,Sedan,24,17,3105,2000
+Audi,100,1993,regular unleaded,172,6,MANUAL,all wheel drive,4,Luxury,Midsize,Sedan,21,16,3105,2000
+Audi,100,1994,regular unleaded,172,6,AUTOMATIC,front wheel drive,4,Luxury,Midsize,Wagon,21,16,3105,2000
+Audi,100,1994,regular unleaded,172,6,MANUAL,all wheel drive,4,Luxury,Midsize,Sedan,22,16,3105,2000
+Audi,100,1994,regular unleaded,172,6,MANUAL,front wheel drive,4,Luxury,Midsize,Sedan,22,17,3105,2000
+Audi,100,1994,regular unleaded,172,6,AUTOMATIC,front wheel drive,4,Luxury,Midsize,Sedan,22,16,3105,2000
+Audi,100,1994,regular unleaded,172,6,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Wagon,21,16,3105,2000
+FIAT,124 Spider,2017,premium unleaded (recommended),160,4,MANUAL,rear wheel drive,2,Performance,Compact,Convertible,35,26,819,27495
+FIAT,124 Spider,2017,premium unleaded (recommended),160,4,MANUAL,rear wheel drive,2,Performance,Compact,Convertible,35,26,819,24995
+FIAT,124 Spider,2017,premium unleaded (recommended),160,4,MANUAL,rear wheel drive,2,Performance,Compact,Convertible,35,26,819,28195
+Toyota,4Runner,2014,regular unleaded,270,6,AUTOMATIC,rear wheel drive,4,N/A,Midsize,4dr SUV,23,17,2031,41365
+Toyota,4Runner,2014,regular unleaded,270,6,AUTOMATIC,rear wheel drive,4,N/A,Midsize,4dr SUV,23,17,2031,35740
+Toyota,4Runner,2014,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,N/A,Midsize,4dr SUV,22,17,2031,37615
+Toyota,4Runner,2014,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,N/A,Midsize,4dr SUV,22,17,2031,34695
+Toyota,4Runner,2014,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,N/A,Midsize,4dr SUV,22,17,2031,35725
+Toyota,4Runner,2014,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,N/A,Midsize,4dr SUV,22,17,2031,43400
+Toyota,4Runner,2014,regular unleaded,270,6,AUTOMATIC,rear wheel drive,4,N/A,Midsize,4dr SUV,23,17,2031,32820
+Toyota,4Runner,2014,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,N/A,Midsize,4dr SUV,22,17,2031,38645
+Toyota,4Runner,2015,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,N/A,Midsize,4dr SUV,21,17,2031,37825
+Toyota,4Runner,2015,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,N/A,Midsize,4dr SUV,21,17,2031,43620
+Toyota,4Runner,2015,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,N/A,Midsize,4dr SUV,21,17,2031,36115
+Toyota,4Runner,2015,regular unleaded,270,6,AUTOMATIC,rear wheel drive,4,N/A,Midsize,4dr SUV,22,17,2031,35950
+Toyota,4Runner,2015,regular unleaded,270,6,AUTOMATIC,rear wheel drive,4,N/A,Midsize,4dr SUV,22,17,2031,33210
+Toyota,4Runner,2015,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,N/A,Midsize,4dr SUV,21,17,2031,38855
+Toyota,4Runner,2015,regular unleaded,270,6,AUTOMATIC,rear wheel drive,4,N/A,Midsize,4dr SUV,22,17,2031,41585
+Toyota,4Runner,2015,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,N/A,Midsize,4dr SUV,21,17,2031,35085
+Toyota,4Runner,2015,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,N/A,Midsize,4dr SUV,21,17,2031,41310
+Toyota,4Runner,2016,regular unleaded,270,6,AUTOMATIC,rear wheel drive,4,N/A,Midsize,4dr SUV,22,17,2031,36690
+Toyota,4Runner,2016,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,N/A,Midsize,4dr SUV,21,17,2031,44360
+Toyota,4Runner,2016,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,N/A,Midsize,4dr SUV,21,17,2031,39595
+Toyota,4Runner,2016,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,N/A,Midsize,4dr SUV,21,17,2031,41850
+Toyota,4Runner,2016,regular unleaded,270,6,AUTOMATIC,rear wheel drive,4,N/A,Midsize,4dr SUV,22,17,2031,42325
+Toyota,4Runner,2016,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,N/A,Midsize,4dr SUV,21,17,2031,35885
+Toyota,4Runner,2016,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,N/A,Midsize,4dr SUV,21,17,2031,38565
+Toyota,4Runner,2016,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,N/A,Midsize,4dr SUV,21,17,2031,36915
+Toyota,4Runner,2016,regular unleaded,270,6,AUTOMATIC,rear wheel drive,4,N/A,Midsize,4dr SUV,22,17,2031,34010
+Hyundai,Accent,2014,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,37,27,1439,17395
+Hyundai,Accent,2014,regular unleaded,138,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,38,27,1439,14895
+Hyundai,Accent,2014,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,37,27,1439,15645
+Hyundai,Accent,2014,regular unleaded,138,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,37,27,1439,16095
+Hyundai,Accent,2014,regular unleaded,138,4,MANUAL,front wheel drive,4,N/A,Compact,Sedan,38,27,1439,14645
+Hyundai,Accent,2014,regular unleaded,138,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,38,27,1439,16395
+Hyundai,Accent,2015,regular unleaded,137,4,MANUAL,front wheel drive,4,N/A,Compact,Sedan,38,27,1439,14745
+Hyundai,Accent,2015,regular unleaded,137,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,38,27,1439,14995
+Hyundai,Accent,2015,regular unleaded,137,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,37,26,1439,15745
+Hyundai,Accent,2015,regular unleaded,137,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,37,26,1439,17495
+Hyundai,Accent,2015,regular unleaded,137,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,38,27,1439,16495
+Hyundai,Accent,2015,regular unleaded,137,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,37,26,1439,16195
+Hyundai,Accent,2016,regular unleaded,137,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,37,26,1439,15745
+Hyundai,Accent,2016,regular unleaded,137,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,37,26,1439,17495
+Hyundai,Accent,2016,regular unleaded,137,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,37,26,1439,16195
+Hyundai,Accent,2016,regular unleaded,137,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,38,27,1439,16495
+Hyundai,Accent,2016,regular unleaded,137,4,MANUAL,front wheel drive,4,N/A,Compact,Sedan,38,27,1439,14745
+Hyundai,Accent,2016,regular unleaded,137,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,38,27,1439,14995
+Honda,Accord Crosstour,2010,regular unleaded,271,6,AUTOMATIC,all wheel drive,4,"Crossover,Hatchback",Midsize,4dr Hatchback,25,17,2202,34020
+Honda,Accord Crosstour,2010,regular unleaded,271,6,AUTOMATIC,all wheel drive,4,"Crossover,Hatchback",Midsize,4dr Hatchback,25,17,2202,36220
+Honda,Accord Crosstour,2010,regular unleaded,271,6,AUTOMATIC,front wheel drive,4,"Crossover,Hatchback",Midsize,4dr Hatchback,27,18,2202,29670
+Honda,Accord Crosstour,2010,regular unleaded,271,6,AUTOMATIC,front wheel drive,4,"Crossover,Hatchback",Midsize,4dr Hatchback,27,18,2202,34770
+Honda,Accord Crosstour,2010,regular unleaded,271,6,AUTOMATIC,front wheel drive,4,"Crossover,Hatchback",Midsize,4dr Hatchback,27,18,2202,32570
+Honda,Accord Crosstour,2011,regular unleaded,271,6,AUTOMATIC,front wheel drive,4,"Crossover,Hatchback",Midsize,4dr Hatchback,27,18,2202,29990
+Honda,Accord Crosstour,2011,regular unleaded,271,6,AUTOMATIC,front wheel drive,4,"Crossover,Hatchback",Midsize,4dr Hatchback,27,18,2202,32890
+Honda,Accord Crosstour,2011,regular unleaded,271,6,AUTOMATIC,all wheel drive,4,"Crossover,Hatchback",Midsize,4dr Hatchback,26,18,2202,36540
+Honda,Accord Crosstour,2011,regular unleaded,271,6,AUTOMATIC,all wheel drive,4,"Crossover,Hatchback",Midsize,4dr Hatchback,26,18,2202,34340
+Honda,Accord Crosstour,2011,regular unleaded,271,6,AUTOMATIC,front wheel drive,4,"Crossover,Hatchback",Midsize,4dr Hatchback,27,18,2202,35090
+Honda,Accord Hybrid,2014,regular unleaded,195,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Sedan,45,50,2202,31905
+Honda,Accord Hybrid,2014,regular unleaded,195,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Sedan,45,50,2202,29155
+Honda,Accord Hybrid,2014,regular unleaded,195,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Sedan,45,50,2202,34905
+Honda,Accord Hybrid,2015,regular unleaded,196,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Sedan,45,50,2202,35055
+Honda,Accord Hybrid,2015,regular unleaded,196,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Sedan,45,50,2202,32055
+Honda,Accord Hybrid,2015,regular unleaded,196,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Sedan,45,50,2202,29305
+Honda,Accord Hybrid,2017,regular unleaded,212,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Sedan,47,49,2202,29605
+Honda,Accord Hybrid,2017,regular unleaded,212,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Sedan,47,49,2202,32905
+Honda,Accord Hybrid,2017,regular unleaded,212,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Sedan,47,49,2202,35955
+Honda,Accord Plug-In Hybrid,2014,regular unleaded,196,4,AUTOMATIC,front wheel drive,4,Hybrid,Midsize,Sedan,46,47,2202,39780
+Honda,Accord,2015,regular unleaded,278,6,MANUAL,front wheel drive,2,Performance,Midsize,Coupe,28,18,2202,30775
+Honda,Accord,2015,regular unleaded,278,6,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,34,21,2202,32270
+Honda,Accord,2015,regular unleaded,278,6,AUTOMATIC,front wheel drive,2,Performance,Midsize,Coupe,32,21,2202,32550
+Honda,Accord,2015,regular unleaded,185,4,MANUAL,front wheel drive,2,N/A,Midsize,Coupe,34,24,2202,23775
+Honda,Accord,2015,regular unleaded,185,4,AUTOMATIC,front wheel drive,2,N/A,Midsize,Coupe,35,26,2202,26300
+Honda,Accord,2015,regular unleaded,185,4,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,36,27,2202,30195
+Honda,Accord,2015,regular unleaded,185,4,MANUAL,front wheel drive,2,N/A,Midsize,Coupe,34,24,2202,25450
+Honda,Accord,2015,regular unleaded,278,6,MANUAL,front wheel drive,2,Performance,Midsize,Coupe,28,18,2202,32550
+Honda,Accord,2015,regular unleaded,189,4,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,35,26,2202,24665
+Honda,Accord,2015,regular unleaded,185,4,MANUAL,front wheel drive,4,N/A,Midsize,Sedan,34,24,2202,25030
+Honda,Accord,2015,regular unleaded,185,4,AUTOMATIC,front wheel drive,2,N/A,Midsize,Coupe,35,26,2202,30270
+Honda,Accord,2015,regular unleaded,185,4,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,36,27,2202,25830
+Honda,Accord,2015,regular unleaded,185,4,AUTOMATIC,front wheel drive,2,N/A,Midsize,Coupe,35,26,2202,28495
+Honda,Accord,2015,regular unleaded,278,6,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,34,21,2202,30495
+Honda,Accord,2015,regular unleaded,278,6,AUTOMATIC,front wheel drive,2,Performance,Midsize,Coupe,32,21,2202,30775
+Honda,Accord,2015,regular unleaded,185,4,MANUAL,front wheel drive,4,N/A,Midsize,Sedan,34,24,2202,22105
+Honda,Accord,2015,regular unleaded,185,4,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,36,27,2202,28420
+Honda,Accord,2015,regular unleaded,278,6,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,34,21,2202,33630
+Honda,Accord,2015,regular unleaded,185,4,AUTOMATIC,front wheel drive,2,N/A,Midsize,Coupe,35,26,2202,24625
+Honda,Accord,2015,regular unleaded,189,4,MANUAL,front wheel drive,4,N/A,Midsize,Sedan,34,24,2202,23865
+Honda,Accord,2015,regular unleaded,185,4,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,36,27,2202,22905
+Honda,Accord,2016,regular unleaded,278,6,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,34,21,2202,32745
+Honda,Accord,2016,regular unleaded,185,4,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,37,27,2202,28670
+Honda,Accord,2016,regular unleaded,185,4,AUTOMATIC,front wheel drive,2,N/A,Midsize,Coupe,35,26,2202,26850
+Honda,Accord,2016,regular unleaded,189,4,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,35,26,2202,25065
+Honda,Accord,2016,regular unleaded,278,6,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,34,21,2202,30745
+Honda,Accord,2016,regular unleaded,185,4,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,37,27,2202,27380
+Honda,Accord,2016,regular unleaded,278,6,AUTOMATIC,front wheel drive,4,Performance,Midsize,Sedan,34,21,2202,34680
+Honda,Accord,2016,regular unleaded,185,4,AUTOMATIC,front wheel drive,2,N/A,Midsize,Coupe,35,26,2202,27850
+Honda,Accord,2016,regular unleaded,185,4,AUTOMATIC,front wheel drive,2,N/A,Midsize,Coupe,35,26,2202,24725
+Honda,Accord,2016,regular unleaded,189,4,MANUAL,front wheel drive,4,N/A,Midsize,Sedan,34,23,2202,24265
+Honda,Accord,2016,regular unleaded,185,4,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,37,27,2202,26380
+Honda,Accord,2016,regular unleaded,185,4,AUTOMATIC,front wheel drive,2,N/A,Midsize,Coupe,35,26,2202,30845
+Honda,Accord,2016,regular unleaded,185,4,MANUAL,front wheel drive,4,N/A,Midsize,Sedan,34,23,2202,25580
+Honda,Accord,2016,regular unleaded,185,4,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,37,27,2202,23005
+Honda,Accord,2016,regular unleaded,185,4,MANUAL,front wheel drive,2,N/A,Midsize,Coupe,34,23,2202,23875
+Honda,Accord,2016,regular unleaded,185,4,AUTOMATIC,front wheel drive,2,N/A,Midsize,Coupe,35,26,2202,28845
+Honda,Accord,2016,regular unleaded,189,4,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,35,26,2202,26065
+Honda,Accord,2016,regular unleaded,185,4,MANUAL,front wheel drive,2,N/A,Midsize,Coupe,34,23,2202,26000
+Honda,Accord,2016,regular unleaded,185,4,AUTOMATIC,front wheel drive,2,N/A,Midsize,Coupe,35,26,2202,25725
+Honda,Accord,2016,regular unleaded,185,4,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,37,27,2202,24005
+Honda,Accord,2016,regular unleaded,278,6,MANUAL,front wheel drive,2,Performance,Midsize,Coupe,28,18,2202,31025
+Honda,Accord,2016,regular unleaded,278,6,AUTOMATIC,front wheel drive,2,Performance,Midsize,Coupe,32,21,2202,34225
+Honda,Accord,2016,regular unleaded,278,6,AUTOMATIC,front wheel drive,2,Performance,Midsize,Coupe,32,21,2202,33025
+Honda,Accord,2016,regular unleaded,185,4,MANUAL,front wheel drive,4,N/A,Midsize,Sedan,34,23,2202,22205
+Honda,Accord,2016,regular unleaded,278,6,AUTOMATIC,front wheel drive,2,Performance,Midsize,Coupe,32,21,2202,31025
+Honda,Accord,2016,regular unleaded,185,4,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,37,27,2202,30670
+Honda,Accord,2017,regular unleaded,189,4,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,34,26,2202,26215
+Honda,Accord,2017,regular unleaded,185,4,MANUAL,front wheel drive,2,N/A,Midsize,Coupe,32,23,2202,24025
+Honda,Accord,2017,regular unleaded,185,4,AUTOMATIC,front wheel drive,2,N/A,Midsize,Coupe,34,26,2202,30995
+Honda,Accord,2017,regular unleaded,185,4,MANUAL,front wheel drive,4,N/A,Midsize,Sedan,32,23,2202,22355
+Honda,Accord,2017,regular unleaded,278,6,AUTOMATIC,front wheel drive,4,Performance,Midsize,Sedan,33,21,2202,34830
+Honda,Accord,2017,regular unleaded,185,4,MANUAL,front wheel drive,2,N/A,Midsize,Coupe,32,23,2202,26150
+Honda,Accord,2017,regular unleaded,278,6,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,33,21,2202,32895
+Honda,Accord,2017,regular unleaded,189,4,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,34,26,2202,25215
+Honda,Accord,2017,regular unleaded,185,4,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,36,27,2202,27530
+Honda,Accord,2017,regular unleaded,185,4,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,36,27,2202,28820
+Volkswagen,Beetle Convertible,2014,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,N/A,Compact,Convertible,32,24,873,27295
+Volkswagen,Beetle Convertible,2014,premium unleaded (recommended),210,4,AUTOMATED_MANUAL,front wheel drive,2,Performance,Compact,Convertible,29,23,873,31795
+Volkswagen,Beetle Convertible,2014,premium unleaded (recommended),210,4,AUTOMATED_MANUAL,front wheel drive,2,Performance,Compact,Convertible,29,23,873,34895
+Volkswagen,Beetle Convertible,2014,regular unleaded,170,5,AUTOMATIC,front wheel drive,2,N/A,Compact,Convertible,27,21,873,27295
+Volkswagen,Beetle Convertible,2014,diesel,140,4,AUTOMATED_MANUAL,front wheel drive,2,Diesel,Compact,Convertible,41,28,873,32755
+Volkswagen,Beetle Convertible,2014,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,Performance,Compact,Convertible,31,23,873,29395
+Volkswagen,Beetle Convertible,2014,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,N/A,Compact,Convertible,32,24,873,29395
+Volkswagen,Beetle Convertible,2014,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,N/A,Compact,Convertible,32,24,873,25170
+Volkswagen,Beetle Convertible,2014,premium unleaded (recommended),210,4,AUTOMATED_MANUAL,front wheel drive,2,Performance,Compact,Convertible,29,23,873,30495
+Volkswagen,Beetle Convertible,2014,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,Performance,Compact,Convertible,31,23,873,30695
+Volkswagen,Beetle Convertible,2014,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,N/A,Compact,Convertible,32,24,873,29395
+Volkswagen,Beetle Convertible,2014,diesel,140,4,AUTOMATED_MANUAL,front wheel drive,2,Diesel,Compact,Convertible,41,28,873,31195
+Volkswagen,Beetle Convertible,2014,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,Performance,Compact,Convertible,31,23,873,30695
+Volkswagen,Beetle Convertible,2014,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,N/A,Compact,Convertible,32,24,873,30755
+Volkswagen,Beetle Convertible,2014,premium unleaded (recommended),210,4,AUTOMATED_MANUAL,front wheel drive,2,Performance,Compact,Convertible,29,23,873,34895
+Volkswagen,Beetle Convertible,2014,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,N/A,Compact,Convertible,32,24,873,27295
+Volkswagen,Beetle Convertible,2014,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,Performance,Compact,Convertible,31,23,873,33795
+Volkswagen,Beetle Convertible,2014,diesel,140,4,MANUAL,front wheel drive,2,Diesel,Compact,Convertible,41,28,873,30095
+Volkswagen,Beetle Convertible,2014,premium unleaded (recommended),210,4,AUTOMATED_MANUAL,front wheel drive,2,Performance,Compact,Convertible,29,23,873,30495
+Volkswagen,Beetle Convertible,2014,regular unleaded,170,5,AUTOMATIC,front wheel drive,2,N/A,Compact,Convertible,27,21,873,27295
+Volkswagen,Beetle Convertible,2014,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,Performance,Compact,Convertible,31,23,873,29395
+Volkswagen,Beetle Convertible,2014,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,Performance,Compact,Convertible,31,23,873,33795
+Volkswagen,Beetle Convertible,2014,regular unleaded,170,5,AUTOMATIC,front wheel drive,2,N/A,Compact,Convertible,27,21,873,29395
+Volkswagen,Beetle Convertible,2014,diesel,140,4,AUTOMATED_MANUAL,front wheel drive,2,Diesel,Compact,Convertible,41,28,873,29995
+Volkswagen,Beetle Convertible,2014,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,N/A,Compact,Convertible,32,24,873,25170
+Volkswagen,Beetle Convertible,2014,regular unleaded,170,5,AUTOMATIC,front wheel drive,2,N/A,Compact,Convertible,27,21,873,25170
+Volkswagen,Beetle Convertible,2014,premium unleaded (recommended),210,4,AUTOMATED_MANUAL,front wheel drive,2,Performance,Compact,Convertible,29,23,873,31795
+Volkswagen,Beetle Convertible,2014,regular unleaded,170,5,AUTOMATIC,front wheel drive,2,N/A,Compact,Convertible,27,21,873,25170
+Volkswagen,Beetle Convertible,2014,regular unleaded,170,5,AUTOMATIC,front wheel drive,2,N/A,Compact,Convertible,27,21,873,29395
+Volkswagen,Beetle Convertible,2014,diesel,140,4,MANUAL,front wheel drive,2,Diesel,Compact,Convertible,41,28,873,28895
+Volkswagen,Beetle Convertible,2015,diesel,150,4,MANUAL,front wheel drive,2,Diesel,Compact,Convertible,40,30,873,30295
+Volkswagen,Beetle Convertible,2015,premium unleaded (recommended),210,4,AUTOMATED_MANUAL,front wheel drive,2,Performance,Compact,Convertible,29,23,873,31995
+Volkswagen,Beetle Convertible,2015,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,Performance,Compact,Convertible,31,23,873,33995
+Volkswagen,Beetle Convertible,2015,diesel,150,4,AUTOMATED_MANUAL,front wheel drive,2,Diesel,Compact,Convertible,40,30,873,30195
+Volkswagen,Beetle Convertible,2015,premium unleaded (recommended),210,4,AUTOMATED_MANUAL,front wheel drive,2,Performance,Compact,Convertible,29,23,873,32595
+Volkswagen,Beetle Convertible,2015,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,N/A,Compact,Convertible,32,24,873,29595
+Volkswagen,Beetle Convertible,2015,premium unleaded (recommended),210,4,AUTOMATED_MANUAL,front wheel drive,2,Performance,Compact,Convertible,29,23,873,35095
+Volkswagen,Beetle Convertible,2015,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,N/A,Compact,Convertible,32,24,873,30425
+Volkswagen,Beetle Convertible,2015,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,N/A,Compact,Convertible,32,24,873,29595
+Volkswagen,Beetle Convertible,2015,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,N/A,Compact,Convertible,32,24,873,27475
+Volkswagen,Beetle Convertible,2015,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,Performance,Compact,Convertible,31,23,873,30895
+Volkswagen,Beetle Convertible,2015,diesel,150,4,MANUAL,front wheel drive,2,Diesel,Compact,Convertible,40,30,873,31125
+Volkswagen,Beetle Convertible,2015,diesel,150,4,MANUAL,front wheel drive,2,Diesel,Compact,Convertible,40,30,873,29675
+Volkswagen,Beetle Convertible,2015,premium unleaded (recommended),210,4,AUTOMATED_MANUAL,front wheel drive,2,Performance,Compact,Convertible,29,23,873,30995
+Volkswagen,Beetle Convertible,2015,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,Performance,Compact,Convertible,31,23,873,34875
+Volkswagen,Beetle Convertible,2015,premium unleaded (recommended),210,4,AUTOMATED_MANUAL,front wheel drive,2,Performance,Compact,Convertible,29,23,873,32595
+Volkswagen,Beetle Convertible,2015,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,Performance,Compact,Convertible,31,23,873,29895
+Volkswagen,Beetle Convertible,2015,diesel,150,4,MANUAL,front wheel drive,2,Diesel,Compact,Convertible,40,30,873,29095
+Volkswagen,Beetle Convertible,2015,diesel,150,4,AUTOMATED_MANUAL,front wheel drive,2,Diesel,Compact,Convertible,40,30,873,31395
+Volkswagen,Beetle Convertible,2015,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,Performance,Compact,Convertible,31,23,873,29895
+Volkswagen,Beetle Convertible,2015,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,N/A,Compact,Convertible,32,24,873,27475
+Volkswagen,Beetle Convertible,2015,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,N/A,Compact,Convertible,32,24,873,25595
+Volkswagen,Beetle Convertible,2015,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,N/A,Compact,Convertible,32,24,873,30425
+Volkswagen,Beetle Convertible,2015,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,N/A,Compact,Convertible,32,24,873,25595
+Volkswagen,Beetle Convertible,2015,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,N/A,Compact,Convertible,32,24,873,25995
+Volkswagen,Beetle Convertible,2015,premium unleaded (recommended),210,4,AUTOMATED_MANUAL,front wheel drive,2,Performance,Compact,Convertible,29,23,873,30995
+Volkswagen,Beetle Convertible,2015,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,Performance,Compact,Convertible,31,23,873,30895
+Volkswagen,Beetle Convertible,2015,premium unleaded (recommended),210,4,AUTOMATED_MANUAL,front wheel drive,2,Performance,Compact,Convertible,29,23,873,35975
+Volkswagen,Beetle Convertible,2015,diesel,150,4,AUTOMATED_MANUAL,front wheel drive,2,Diesel,Compact,Convertible,40,30,873,30775
+Volkswagen,Beetle Convertible,2015,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,Performance,Compact,Convertible,31,23,873,33995
+Volkswagen,Beetle Convertible,2015,diesel,150,4,AUTOMATED_MANUAL,front wheel drive,2,Diesel,Compact,Convertible,40,30,873,32225
+Volkswagen,Beetle Convertible,2015,premium unleaded (recommended),210,4,AUTOMATED_MANUAL,front wheel drive,2,Performance,Compact,Convertible,29,23,873,35975
+Volkswagen,Beetle Convertible,2015,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,Performance,Compact,Convertible,31,23,873,31495
+Volkswagen,Beetle Convertible,2015,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,N/A,Compact,Convertible,32,24,873,27995
+Volkswagen,Beetle Convertible,2015,premium unleaded (recommended),210,4,AUTOMATED_MANUAL,front wheel drive,2,Performance,Compact,Convertible,29,23,873,35095
+Volkswagen,Beetle Convertible,2015,premium unleaded (recommended),210,4,AUTOMATED_MANUAL,front wheel drive,2,Performance,Compact,Convertible,29,23,873,31995
+Volkswagen,Beetle Convertible,2015,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,Performance,Compact,Convertible,31,23,873,31495
+Volkswagen,Beetle Convertible,2015,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,N/A,Compact,Convertible,32,24,873,27995
+Volkswagen,Beetle Convertible,2015,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,Performance,Compact,Convertible,31,23,873,34875
+Volkswagen,Beetle Convertible,2016,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,Performance,Compact,Convertible,31,23,873,29790
+Volkswagen,Beetle Convertible,2016,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,N/A,Compact,Convertible,34,25,873,28070
+Volkswagen,Beetle Convertible,2016,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,Performance,Compact,Convertible,31,23,873,34950
+Volkswagen,Beetle Convertible,2016,premium unleaded (recommended),210,4,AUTOMATED_MANUAL,front wheel drive,2,Performance,Compact,Convertible,31,23,873,32670
+Volkswagen,Beetle Convertible,2016,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,N/A,Compact,Convertible,34,25,873,28070
+Volkswagen,Beetle Convertible,2016,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,Performance,Compact,Convertible,31,23,873,31570
+Volkswagen,Beetle Convertible,2016,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,N/A,Compact,Convertible,34,25,873,30500
+Volkswagen,Beetle Convertible,2016,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,N/A,Compact,Convertible,34,25,873,25995
+Volkswagen,Beetle Convertible,2016,premium unleaded (recommended),210,4,AUTOMATED_MANUAL,front wheel drive,2,Performance,Compact,Convertible,31,23,873,36050
+Volkswagen,Beetle Convertible,2016,premium unleaded (recommended),210,4,AUTOMATED_MANUAL,front wheel drive,2,Performance,Compact,Convertible,31,23,873,30890
+Volkswagen,Beetle Convertible,2016,premium unleaded (recommended),210,4,AUTOMATED_MANUAL,front wheel drive,2,Performance,Compact,Convertible,31,23,873,36050
+Volkswagen,Beetle Convertible,2016,premium unleaded (recommended),210,4,AUTOMATED_MANUAL,front wheel drive,2,Performance,Compact,Convertible,31,23,873,32670
+Volkswagen,Beetle Convertible,2016,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,N/A,Compact,Convertible,34,25,873,25490
+Volkswagen,Beetle Convertible,2016,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,Performance,Compact,Convertible,31,23,873,34950
+Volkswagen,Beetle Convertible,2016,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,Performance,Compact,Convertible,31,23,873,29790
+Volkswagen,Beetle Convertible,2016,premium unleaded (recommended),210,4,AUTOMATED_MANUAL,front wheel drive,2,Performance,Compact,Convertible,31,23,873,30890
+Volkswagen,Beetle Convertible,2016,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,N/A,Compact,Convertible,34,25,873,30500
+Volkswagen,Beetle Convertible,2016,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,Performance,Compact,Convertible,31,23,873,31570
+Volkswagen,Beetle Convertible,2016,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,N/A,Compact,Convertible,34,25,873,25490
+Volkswagen,Beetle Convertible,2016,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,N/A,Compact,Convertible,34,25,873,25995
+Volkswagen,Beetle,2015,diesel,150,4,AUTOMATED_MANUAL,front wheel drive,2,"Hatchback,Diesel",Compact,2dr Hatchback,41,31,873,25895
+Volkswagen,Beetle,2015,premium unleaded (recommended),210,4,AUTOMATED_MANUAL,front wheel drive,2,"Hatchback,Performance",Compact,2dr Hatchback,30,24,873,31625
+Volkswagen,Beetle,2015,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,Hatchback,Compact,2dr Hatchback,33,25,873,20195
+Volkswagen,Beetle,2015,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,Hatchback,Compact,2dr Hatchback,33,25,873,24185
+Volkswagen,Beetle,2015,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,Hatchback,Compact,2dr Hatchback,33,25,873,26985
+Volkswagen,Beetle,2015,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,"Hatchback,Performance",Compact,2dr Hatchback,31,23,873,30525
+Volkswagen,Beetle,2015,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,Hatchback,Compact,2dr Hatchback,33,25,873,26195
+Volkswagen,Beetle,2015,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,"Hatchback,Performance",Compact,2dr Hatchback,31,23,873,30525
+Volkswagen,Beetle,2015,premium unleaded (recommended),210,4,AUTOMATED_MANUAL,front wheel drive,2,"Hatchback,Performance",Compact,2dr Hatchback,30,24,873,31625
+Volkswagen,Beetle,2015,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,Hatchback,Compact,2dr Hatchback,33,25,873,26195
+Volkswagen,Beetle,2015,regular unleaded,170,4,MANUAL,front wheel drive,2,Hatchback,Compact,2dr Hatchback,33,24,873,23085
+Volkswagen,Beetle,2015,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,Hatchback,Compact,2dr Hatchback,33,25,873,21795
+Volkswagen,Beetle,2015,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,"Hatchback,Performance",Compact,2dr Hatchback,31,23,873,28115
+Volkswagen,Beetle,2015,premium unleaded (recommended),210,4,AUTOMATED_MANUAL,front wheel drive,2,"Hatchback,Performance",Compact,2dr Hatchback,30,24,873,32475
+Volkswagen,Beetle,2015,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,"Hatchback,Performance",Compact,2dr Hatchback,31,23,873,28675
+Volkswagen,Beetle,2015,regular unleaded,170,4,MANUAL,front wheel drive,2,Hatchback,Compact,2dr Hatchback,33,24,873,20695
+Volkswagen,Beetle,2015,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,"Hatchback,Performance",Compact,2dr Hatchback,31,23,873,25450
+Volkswagen,Beetle,2015,diesel,150,4,MANUAL,front wheel drive,2,"Hatchback,Diesel",Compact,2dr Hatchback,41,31,873,27710
+Volkswagen,Beetle,2015,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,"Hatchback,Performance",Compact,2dr Hatchback,31,23,873,25450
+Volkswagen,Beetle,2015,premium unleaded (recommended),210,4,AUTOMATED_MANUAL,front wheel drive,2,"Hatchback,Performance",Compact,2dr Hatchback,30,24,873,26550
+Volkswagen,Beetle,2015,regular unleaded,170,4,MANUAL,front wheel drive,2,Hatchback,Compact,2dr Hatchback,33,24,873,25885
+Volkswagen,Beetle,2015,premium unleaded (recommended),210,4,AUTOMATED_MANUAL,front wheel drive,2,"Hatchback,Performance",Compact,2dr Hatchback,30,24,873,29215
+Volkswagen,Beetle,2015,regular unleaded,170,4,MANUAL,front wheel drive,2,Hatchback,Compact,2dr Hatchback,33,24,873,25095
+Volkswagen,Beetle,2015,diesel,150,4,AUTOMATED_MANUAL,front wheel drive,2,"Hatchback,Diesel",Compact,2dr Hatchback,41,31,873,26430
+Volkswagen,Beetle,2015,regular unleaded,170,4,MANUAL,front wheel drive,2,Hatchback,Compact,2dr Hatchback,33,24,873,25885
+Volkswagen,Beetle,2015,diesel,150,4,AUTOMATED_MANUAL,front wheel drive,2,"Hatchback,Diesel",Compact,2dr Hatchback,41,31,873,29625
+Volkswagen,Beetle,2015,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,"Hatchback,Performance",Compact,2dr Hatchback,31,23,873,31375
+Volkswagen,Beetle,2015,regular unleaded,170,4,MANUAL,front wheel drive,2,Hatchback,Compact,2dr Hatchback,33,24,873,25095
+Volkswagen,Beetle,2015,regular unleaded,170,4,MANUAL,front wheel drive,2,Hatchback,Compact,2dr Hatchback,33,24,873,20695
+Volkswagen,Beetle,2015,diesel,150,4,MANUAL,front wheel drive,2,"Hatchback,Diesel",Compact,2dr Hatchback,41,31,873,28525
+Volkswagen,Beetle,2015,regular unleaded,170,4,MANUAL,front wheel drive,2,Hatchback,Compact,2dr Hatchback,33,24,873,23085
+Volkswagen,Beetle,2015,diesel,150,4,AUTOMATED_MANUAL,front wheel drive,2,"Hatchback,Diesel",Compact,2dr Hatchback,41,31,873,28810
+Volkswagen,Beetle,2015,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,Hatchback,Compact,2dr Hatchback,33,25,873,24705
+Volkswagen,Beetle,2015,premium unleaded (recommended),210,4,AUTOMATED_MANUAL,front wheel drive,2,"Hatchback,Performance",Compact,2dr Hatchback,30,24,873,29215
+Volkswagen,Beetle,2015,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,Hatchback,Compact,2dr Hatchback,33,25,873,21795
+Volkswagen,Beetle,2015,premium unleaded (recommended),210,4,AUTOMATED_MANUAL,front wheel drive,2,"Hatchback,Performance",Compact,2dr Hatchback,30,24,873,32475
+Volkswagen,Beetle,2015,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,"Hatchback,Performance",Compact,2dr Hatchback,31,23,873,28115
+Volkswagen,Beetle,2015,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,"Hatchback,Performance",Compact,2dr Hatchback,31,23,873,28675
+Volkswagen,Beetle,2015,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,"Hatchback,Performance",Compact,2dr Hatchback,31,23,873,31375
+Volkswagen,Beetle,2015,premium unleaded (recommended),210,4,AUTOMATED_MANUAL,front wheel drive,2,"Hatchback,Performance",Compact,2dr Hatchback,30,24,873,26550
+Volkswagen,Beetle,2015,regular unleaded,170,4,MANUAL,front wheel drive,2,Hatchback,Compact,2dr Hatchback,33,24,873,23605
+Volkswagen,Beetle,2015,diesel,150,4,MANUAL,front wheel drive,2,"Hatchback,Diesel",Compact,2dr Hatchback,41,31,873,25330
+Volkswagen,Beetle,2015,premium unleaded (recommended),210,4,AUTOMATED_MANUAL,front wheel drive,2,"Hatchback,Performance",Compact,2dr Hatchback,30,24,873,29775
+Volkswagen,Beetle,2015,premium unleaded (recommended),210,4,AUTOMATED_MANUAL,front wheel drive,2,"Hatchback,Performance",Compact,2dr Hatchback,30,24,873,29775
+Volkswagen,Beetle,2015,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,Hatchback,Compact,2dr Hatchback,33,25,873,24705
+Volkswagen,Beetle,2015,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,Hatchback,Compact,2dr Hatchback,33,25,873,24185
+Volkswagen,Beetle,2015,diesel,150,4,MANUAL,front wheel drive,2,"Hatchback,Diesel",Compact,2dr Hatchback,41,31,873,24795
+Volkswagen,Beetle,2015,regular unleaded,170,4,MANUAL,front wheel drive,2,Hatchback,Compact,2dr Hatchback,33,24,873,23605
+Volkswagen,Beetle,2015,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,Hatchback,Compact,2dr Hatchback,33,25,873,26985
+Volkswagen,Beetle,2016,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,"Hatchback,Performance",Compact,2dr Hatchback,31,23,873,25995
+Volkswagen,Beetle,2016,premium unleaded (recommended),210,4,AUTOMATED_MANUAL,front wheel drive,2,"Hatchback,Performance",Compact,2dr Hatchback,31,24,873,27095
+Volkswagen,Beetle,2016,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,Hatchback,Compact,2dr Hatchback,34,25,873,22450
+Volkswagen,Beetle,2016,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,Hatchback,Compact,2dr Hatchback,34,25,873,19795
+Volkswagen,Beetle,2016,regular unleaded,170,4,AUTOMATIC,front wheel drive,2,Hatchback,Compact,2dr Hatchback,34,25,873,25975

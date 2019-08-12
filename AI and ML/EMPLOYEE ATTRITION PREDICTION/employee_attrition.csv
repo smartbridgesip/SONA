@@ -1,0 +1,200 @@
+﻿Age,Department,EnvironmentSatisfaction,Gender,JobLevel,JobSatisfaction,MonthlyIncome,MonthlyRate,OverTime,PercentSalaryHike,PerformanceRating,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,Attrition
+41,Sales,2,Female,2,4,5993,19479,Yes,11,3,6,4,0,Yes
+49,Research & Development,3,Male,2,2,5130,24907,No,23,4,10,7,1,No
+37,Research & Development,4,Male,1,3,2090,2396,Yes,15,3,0,0,0,Yes
+33,Research & Development,4,Female,1,3,2909,23159,Yes,11,3,8,7,3,No
+27,Research & Development,1,Male,1,2,3468,16632,No,12,3,2,2,2,No
+32,Research & Development,4,Male,1,4,3068,11864,No,13,3,7,7,3,No
+59,Research & Development,3,Female,1,1,2670,9964,Yes,20,4,1,0,0,No
+30,Research & Development,4,Male,1,3,2693,13335,No,22,4,1,0,0,No
+38,Research & Development,4,Male,3,3,9526,8787,No,21,4,9,7,1,No
+36,Research & Development,3,Male,2,3,5237,16577,No,13,3,7,7,7,No
+35,Research & Development,1,Male,1,2,2426,16479,No,13,3,5,4,0,No
+29,Research & Development,4,Female,2,3,4193,12682,Yes,12,3,9,5,0,No
+31,Research & Development,1,Male,1,3,2911,15170,No,17,3,5,2,4,No
+34,Research & Development,2,Male,1,4,2661,8758,No,11,3,2,2,1,No
+28,Research & Development,3,Male,1,3,2028,12947,Yes,14,3,4,2,0,Yes
+29,Research & Development,2,Female,3,1,9980,10195,No,11,3,10,9,8,No
+32,Research & Development,1,Male,1,2,3298,15053,Yes,12,3,6,2,0,No
+22,Research & Development,4,Male,1,4,2935,7324,Yes,13,3,1,0,0,No
+53,Sales,1,Female,4,4,15427,22021,No,16,3,25,8,3,No
+38,Research & Development,4,Male,1,4,3944,4306,Yes,11,3,3,2,1,No
+24,Research & Development,1,Female,2,3,4011,8232,No,18,3,4,2,1,No
+36,Sales,3,Male,1,1,3407,6986,No,23,4,5,3,0,Yes
+34,Research & Development,1,Female,3,2,11994,21293,No,11,3,12,6,2,No
+21,Research & Development,3,Male,1,4,1232,19281,No,14,3,0,0,0,No
+34,Research & Development,2,Male,1,1,2960,17102,No,11,3,4,2,1,Yes
+53,Research & Development,3,Female,5,3,19094,10735,No,11,3,14,13,4,No
+32,Research & Development,2,Female,1,1,3919,4681,Yes,22,4,10,2,6,Yes
+42,Sales,3,Male,2,2,6825,21173,No,11,3,9,7,4,No
+44,Research & Development,1,Female,3,4,10248,2094,No,14,3,22,6,5,No
+46,Sales,2,Female,5,1,18947,22822,No,12,3,2,2,2,No
+33,Research & Development,3,Male,1,4,2496,6670,No,11,3,1,1,0,No
+44,Research & Development,4,Male,2,4,6465,19121,Yes,13,3,4,2,1,No
+30,Research & Development,4,Male,1,3,2206,16117,No,13,3,10,0,1,No
+39,Sales,4,Male,2,4,2086,3335,No,14,3,1,0,0,Yes
+24,Research & Development,2,Male,1,4,2293,3020,Yes,16,3,2,0,2,Yes
+43,Research & Development,4,Female,1,3,2645,21923,No,12,3,5,3,1,No
+50,Sales,1,Male,1,3,2683,3810,Yes,14,3,3,2,0,Yes
+35,Sales,4,Female,1,4,2014,9687,No,13,3,2,2,2,No
+36,Research & Development,2,Female,1,1,3419,13072,Yes,14,3,1,1,0,No
+33,Sales,3,Female,2,1,5376,3193,No,19,3,5,3,1,No
+35,Research & Development,3,Male,1,4,1951,10910,No,12,3,1,0,0,No
+27,Research & Development,4,Female,1,1,2341,19715,No,13,3,1,0,0,No
+26,Research & Development,1,Male,1,3,2293,10558,No,12,3,1,0,0,Yes
+27,Sales,4,Male,3,3,8726,2975,No,15,3,9,8,1,No
+30,Research & Development,3,Female,2,4,4011,10781,No,23,4,12,8,3,No
+41,Research & Development,2,Female,5,3,19545,16280,No,12,3,22,15,15,Yes
+34,Sales,2,Male,2,3,4568,10034,No,20,4,9,5,8,No
+37,Research & Development,2,Male,1,2,3022,10227,No,21,4,1,0,0,No
+46,Sales,1,Male,2,4,5772,20445,Yes,21,4,9,6,0,No
+35,Research & Development,4,Male,1,4,2269,4892,No,19,3,1,0,0,No
+48,Research & Development,1,Male,3,3,5381,19294,Yes,13,3,1,0,0,Yes
+28,Research & Development,3,Male,1,3,3441,11179,Yes,13,3,2,2,2,Yes
+44,Sales,2,Female,2,1,5454,4009,Yes,21,4,4,3,1,No
+35,Research & Development,3,Male,3,1,9884,8302,Yes,13,3,4,0,2,No
+26,Sales,3,Female,2,4,4157,21436,Yes,19,3,2,2,0,No
+33,Research & Development,1,Female,3,4,13458,15146,Yes,12,3,15,14,8,No
+35,Sales,2,Male,3,1,9069,11031,No,22,4,9,8,1,No
+35,Research & Development,3,Female,1,1,4014,16002,Yes,15,3,2,2,2,No
+31,Research & Development,4,Male,2,4,5915,9528,No,22,4,7,7,1,No
+37,Research & Development,1,Male,2,3,5993,2689,No,18,3,7,5,0,No
+32,Research & Development,1,Male,2,4,6162,10877,Yes,22,4,9,8,7,No
+38,Research & Development,4,Female,2,4,2406,5456,No,11,3,10,3,9,No
+50,Research & Development,2,Female,5,3,18740,16701,Yes,12,3,27,3,13,No
+59,Sales,1,Female,3,1,7637,2354,No,11,3,21,16,7,No
+36,Research & Development,3,Female,3,3,10096,8202,No,13,3,17,14,12,No
+55,Research & Development,4,Female,4,3,14756,19730,Yes,14,3,5,0,0,No
+36,Research & Development,2,Male,2,2,6499,22656,No,13,3,6,5,0,No
+45,Research & Development,2,Male,3,1,9724,18787,No,17,3,1,0,0,No
+35,Research & Development,2,Male,1,1,2194,5868,No,13,3,3,2,1,No
+36,Research & Development,4,Male,1,3,3388,21777,Yes,17,3,1,0,0,Yes
+59,Sales,1,Female,2,3,5473,24668,No,11,3,4,3,1,No
+29,Research & Development,3,Male,1,2,2703,4956,No,23,4,5,4,0,No
+31,Research & Development,3,Male,1,2,2501,18775,No,17,3,1,1,1,No
+32,Research & Development,2,Male,2,2,6220,7346,No,17,3,10,4,0,No
+36,Research & Development,2,Female,1,4,3038,22002,No,12,3,1,0,0,No
+31,Research & Development,3,Female,2,4,4424,20682,No,23,4,11,7,1,No
+35,Sales,3,Male,2,1,4312,23016,No,14,3,15,13,2,No
+45,Research & Development,4,Male,3,1,13245,15067,Yes,14,3,0,0,0,No
+37,Research & Development,1,Male,3,3,13664,25258,No,13,3,5,2,0,No
+46,Research & Development,2,Male,2,2,5021,10425,Yes,22,4,4,2,0,No
+30,Research & Development,4,Male,2,4,5126,15998,Yes,12,3,10,8,3,No
+35,Research & Development,2,Male,1,3,2859,26278,No,18,3,6,4,0,No
+55,Sales,1,Male,3,4,10239,18092,No,14,3,1,0,1,No
+38,Research & Development,2,Female,2,4,5329,15717,Yes,12,3,13,11,1,No
+34,Research & Development,1,Male,2,2,4325,17736,No,15,3,5,2,1,No
+56,Research & Development,4,Male,3,4,7260,21698,No,11,3,6,4,0,No
+23,Sales,3,Male,1,1,2322,9518,No,13,3,0,0,0,No
+51,Research & Development,4,Male,1,4,2075,18725,No,23,4,4,2,0,No
+30,Research & Development,3,Male,2,4,4152,15830,No,19,3,11,10,10,No
+46,Sales,3,Male,3,4,9619,13596,No,16,3,9,8,4,Yes
+40,Research & Development,3,Male,4,2,13503,14115,No,22,4,22,3,11,No
+51,Sales,3,Male,2,4,5441,8423,Yes,22,4,10,7,1,No
+30,Sales,3,Female,2,2,5209,19760,Yes,12,3,11,8,2,No
+46,Research & Development,3,Male,3,1,10673,3142,Yes,13,3,10,9,9,No
+32,Sales,2,Male,2,3,5010,24301,No,16,3,11,8,5,No
+54,Research & Development,1,Female,3,3,13549,24001,No,12,3,4,3,0,No
+24,Sales,1,Female,2,3,4999,17519,No,21,4,3,2,0,No
+28,Sales,2,Male,2,3,4221,8863,No,15,3,5,4,0,No
+58,Sales,4,Male,4,3,13872,24409,No,13,3,37,10,1,No
+44,Research & Development,2,Male,2,2,2042,25043,No,12,3,3,2,1,No
+37,Research & Development,3,Male,1,1,2073,23648,Yes,22,4,3,2,0,Yes
+32,Research & Development,4,Male,1,1,2956,15178,No,13,3,1,0,0,No
+20,Research & Development,4,Female,1,4,2926,19783,Yes,18,3,1,0,1,Yes
+34,Research & Development,1,Female,2,3,4809,12482,No,14,3,16,13,2,No
+37,Research & Development,3,Male,2,4,5163,15850,No,14,3,1,0,0,No
+59,Sales,3,Female,5,4,18844,21922,No,21,4,3,2,2,No
+50,Research & Development,1,Female,5,2,18172,9755,Yes,19,3,8,3,0,No
+25,Sales,3,Male,2,3,5744,26959,Yes,11,3,6,4,0,Yes
+25,Research & Development,4,Male,1,4,2889,26897,No,11,3,2,2,2,No
+22,Research & Development,2,Female,1,4,2871,23785,No,15,3,0,0,0,No
+51,Research & Development,1,Female,3,1,7484,25796,No,20,4,13,12,12,No
+34,Research & Development,1,Male,2,3,6074,22887,Yes,24,4,9,7,0,Yes
+54,Research & Development,4,Female,4,4,17328,13871,Yes,12,3,5,3,4,No
+24,Research & Development,2,Male,1,3,2774,13257,No,12,3,5,3,1,No
+34,Research & Development,3,Female,2,2,4505,15000,No,15,3,1,0,0,No
+37,Sales,3,Male,3,4,7428,14506,No,12,3,5,3,1,No
+34,Research & Development,3,Female,3,1,11631,5615,No,12,3,11,10,5,No
+36,Sales,2,Female,3,4,9738,22952,No,14,3,9,7,2,No
+36,Research & Development,1,Female,1,4,2835,2561,No,22,4,1,0,0,No
+43,Sales,3,Male,4,4,16959,19494,Yes,12,3,25,12,4,No
+30,Research & Development,1,Male,1,3,2613,22310,No,25,4,10,7,0,No
+33,Sales,3,Male,2,2,6146,15480,No,13,3,7,7,0,No
+56,Research & Development,2,Female,1,2,4963,4510,Yes,18,3,5,4,4,Yes
+51,Research & Development,1,Male,5,3,19537,6462,No,13,3,20,18,15,No
+31,Sales,2,Male,2,3,6172,20739,Yes,18,3,7,7,7,Yes
+26,Research & Development,3,Female,1,2,2368,23300,No,19,3,5,4,4,No
+58,Research & Development,4,Female,3,4,10312,3465,No,12,3,40,10,15,Yes
+19,Sales,4,Male,1,3,1675,26820,Yes,19,3,0,0,0,Yes
+22,Research & Development,3,Male,1,4,2523,19299,No,14,3,2,1,2,No
+49,Research & Development,3,Female,2,1,6567,5549,No,14,3,15,11,5,No
+43,Research & Development,2,Female,1,3,4739,16090,No,12,3,3,2,1,No
+50,Sales,3,Female,3,4,9208,6645,No,11,3,2,2,2,No
+31,Sales,2,Female,2,3,4559,24788,Yes,11,3,2,2,2,Yes
+41,Sales,3,Male,3,3,8189,21196,Yes,13,3,9,7,0,No
+26,Research & Development,3,Female,1,3,2942,8916,No,23,4,8,7,5,No
+36,Research & Development,2,Male,2,2,4941,2819,No,20,4,3,2,0,No
+51,Research & Development,1,Male,3,4,10650,25150,No,15,3,4,2,0,Yes
+39,Sales,4,Female,2,3,5902,14590,No,14,3,15,11,5,No
+25,Sales,1,Male,2,3,8639,24835,No,18,3,2,2,2,No
+30,Research & Development,3,Male,2,4,6347,13982,Yes,19,3,11,9,4,No
+32,Research & Development,1,Female,1,1,4200,10224,No,22,4,5,4,0,Yes
+45,Research & Development,3,Male,1,4,3452,9752,No,13,3,6,5,0,No
+38,Research & Development,4,Female,2,3,4317,2302,Yes,20,4,3,2,2,No
+30,Research & Development,1,Female,1,3,2632,23910,No,14,3,5,4,0,No
+32,Sales,4,Male,2,4,4668,22812,No,17,3,8,7,0,No
+30,Research & Development,4,Female,1,1,3204,10415,No,14,3,3,2,2,No
+30,Research & Development,2,Male,1,4,2720,11162,No,13,3,5,3,1,No
+41,Research & Development,4,Male,4,1,17181,12888,No,13,3,7,6,7,No
+41,Research & Development,3,Male,1,1,2238,6961,No,21,4,5,0,1,No
+19,Research & Development,2,Female,1,2,1483,16102,No,14,3,1,0,0,No
+40,Research & Development,2,Female,2,2,5605,8504,No,11,3,20,7,2,No
+35,Sales,3,Male,3,2,7295,11439,No,13,3,10,8,0,No
+53,Sales,2,Male,2,3,2306,16047,Yes,20,4,7,7,4,No
+45,Research & Development,2,Male,2,2,2348,10901,No,18,3,17,9,0,No
+32,Sales,2,Female,3,4,8998,15589,No,14,3,9,8,3,No
+29,Research & Development,4,Male,2,3,4319,26283,No,13,3,10,7,0,No
+51,Research & Development,2,Male,2,3,6132,13983,No,17,3,1,0,0,No
+58,Research & Development,2,Female,1,2,3346,11873,Yes,20,4,1,0,0,No
+40,Sales,3,Male,3,4,10855,8552,No,11,3,12,11,2,No
+34,Sales,3,Female,1,3,2231,11314,No,18,3,4,3,1,No
+22,Research & Development,3,Male,1,4,2323,11992,No,24,4,2,2,2,No
+27,Research & Development,4,Male,1,2,2024,5970,No,18,3,2,2,2,No
+28,Research & Development,3,Male,1,4,2713,6672,No,11,3,5,2,0,No
+57,Research & Development,3,Male,3,4,9439,23402,Yes,16,3,5,3,1,No
+27,Research & Development,3,Male,1,3,2566,25326,Yes,15,3,1,1,0,No
+50,Research & Development,3,Female,5,2,19926,17053,No,15,3,5,4,4,No
+41,Research & Development,1,Male,1,3,2451,4609,No,12,3,9,8,1,No
+30,Sales,2,Female,3,4,9419,8053,No,12,3,10,9,7,No
+38,Sales,1,Female,2,4,8686,12930,No,22,4,8,3,0,No
+32,Research & Development,3,Male,1,3,3038,12430,No,20,4,5,4,1,No
+27,Research & Development,3,Male,1,2,3058,13364,Yes,16,3,5,2,1,No
+19,Sales,3,Female,1,1,2325,20989,No,21,4,0,0,0,Yes
+36,Research & Development,4,Male,1,2,2088,15062,No,12,3,8,7,7,No
+30,Research & Development,3,Male,2,1,3072,11012,No,11,3,12,9,6,No
+45,Sales,3,Female,2,1,5006,6319,Yes,11,3,5,4,0,No
+56,Research & Development,3,Female,1,1,4257,13939,Yes,18,3,2,2,2,No
+33,Research & Development,3,Male,1,4,2500,10515,No,14,3,3,1,0,No
+19,Research & Development,2,Male,1,4,1102,9241,No,22,4,1,0,1,Yes
+46,Sales,2,Female,3,1,10453,2137,No,25,4,24,13,15,No
+38,Research & Development,3,Female,1,4,2288,6319,No,12,3,2,2,2,No
+31,Research & Development,3,Female,1,4,3929,6984,Yes,23,4,4,2,0,No
+34,Research & Development,4,Female,1,2,2311,5711,No,15,3,3,2,1,No
+41,Sales,2,Female,1,2,3140,21728,Yes,22,4,4,3,0,Yes
+50,Research & Development,3,Male,1,3,3690,3425,No,15,3,3,2,0,No
+53,Research & Development,4,Female,2,1,4450,26250,No,11,3,4,2,1,No
+33,Research & Development,4,Female,1,2,2756,4673,No,13,3,8,7,1,No
+40,Research & Development,4,Female,5,3,19033,6499,No,14,3,20,8,9,No
+55,Research & Development,3,Male,5,2,18722,13339,No,11,3,24,15,2,No
+34,Research & Development,4,Male,2,3,9547,14074,No,17,3,10,9,1,No
+51,Research & Development,4,Female,4,2,13734,7192,No,18,3,7,7,1,No
+52,Research & Development,3,Male,5,3,19999,5678,No,14,3,33,18,11,No
+27,Research & Development,4,Female,1,2,2279,11781,No,16,3,7,7,0,No
+35,Research & Development,2,Male,2,3,5916,15497,Yes,13,3,1,0,0,Yes
+43,Research & Development,4,Male,1,4,2089,5228,No,14,3,5,4,2,No
+45,Research & Development,1,Male,4,4,16792,20462,No,23,4,20,8,11,No
+37,Research & Development,2,Male,1,1,3564,22977,Yes,12,3,8,7,1,No
+35,Research & Development,2,Female,2,2,4425,15986,No,11,3,6,2,1,No
+42,Research & Development,3,Female,2,3,5265,16439,No,16,3,5,3,0,No
+38,Research & Development,4,Male,2,3,6553,7259,No,14,3,1,0,0,No
